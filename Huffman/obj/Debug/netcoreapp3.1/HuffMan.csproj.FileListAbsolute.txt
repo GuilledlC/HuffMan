@@ -1,0 +1,14 @@
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.exe
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.deps.json
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.runtimeconfig.json
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.runtimeconfig.dev.json
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.dll
+C:\Users\Guille\source\repos\HuffMan\HuffMan\bin\Debug\netcoreapp3.1\HuffMan.pdb
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.csproj.AssemblyReference.cache
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.AssemblyInfoInputs.cache
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.AssemblyInfo.cs
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.dll
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.pdb
+C:\Users\Guille\source\repos\HuffMan\HuffMan\obj\Debug\netcoreapp3.1\HuffMan.genruntimeconfig.cache
