@@ -15,23 +15,23 @@ namespace HuffMan
             
             Console.WriteLine("Hello World!");
 
-            List<bool> lb = new List<bool>();
+           /*List<bool> lb = new List<bool>();
             lb.Add(true); lb.Add(true); lb.Add(true);
             BitArray ba = new BitArray(lb.ToArray());
-            Console.WriteLine(BitArrToString(ba));
+            Console.WriteLine(BitArrToString(ba));*/
 
             /*bool[] boolArr = { false, true, false };
             BitArray bitArr = new BitArray(boolArr);
             Console.WriteLine(bitArr.Length);
             Console.WriteLine();*/
 
-            bool[] b = new bool[] { true, false, true, false, true, false, true, false };
+            /*bool[] b = new bool[] { true, false, true, false, true, false, true, false };
             byte value1 = 0b10000001;
 
             using (BinaryWriter binWriter = new BinaryWriter(File.Open(@"C:/Users/Guille/Desktop/file.bin", FileMode.Create)))
             {
                 binWriter.Write(value1);
-            }
+            }*/
 
             /*char[] charArr = "111111111111111".ToCharArray();
             Console.WriteLine(charArr);
